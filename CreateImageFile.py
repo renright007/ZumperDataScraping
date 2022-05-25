@@ -31,7 +31,7 @@ def images_file(file_name):
 
     image_df.to_csv('C:/Users/robert.enright/Downloads/SwitchAppartmentData/Extracts/Master/Images_{location}'.format(location = 'master_') + str(date.today()) + '.csv', index=True)
 
-images_file()
+images_file('master_2022-04-25')
 
 
 
