@@ -1,7 +1,3 @@
-
-
-# This script usese BeautifulSoup to scrape the goals information of PL players for the tables that can be found on the offical Premier League Website. It demonstrates proficiencies in both Beautiful Soup and Pandas. 
-
 # Import Libraries
 
 import datetime
