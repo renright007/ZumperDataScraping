@@ -40,4 +40,4 @@ def units_file(file_name):
     print(fp_df.to_string())
     fp_df.to_csv('C:/Users/robert.enright/Downloads/SwitchAppartmentData/Extracts/Master/Units_{location}'.format(location = 'master_') + str(date.today()) + '.csv', index=True)
 
-units_file()
+units_file('Master_2022-04-25')
